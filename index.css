@@ -1,0 +1,39 @@
+.titulo{
+    color: greenyellow;
+    cursor: pointer;
+    border: 1px white solid;
+    margin-top: 50px;
+    padding: 15px;
+    background-color: rgb(51, 50, 50);
+    border-radius: 10px;
+    width: 200px;
+    margin-left: 520px;
+    text-decoration: none;
+
+}   
+img{
+   margin-top: 100px;
+   width: 1300px;
+   height: 500px;
+}
+h1:hover{
+    background-color: black;
+    transition: .5s;
+}
+h1{ 
+    font-weight: black 5px;
+}
+body{
+    padding-top: 20px;
+    padding-left: 300px;
+    background-image: linear-gradient(to right top, blue, white)
+}
+html, body{
+    height: 100%;
+}
+a{ 
+    text-decoration: none;
+}
+a:visited{
+    color: greenyellow;
+}
